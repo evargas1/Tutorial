@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-0j10!!)96+zd_ek(wrd%=#__hu#e5$9+#r@u%srhm3*#6xg#^o
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['143.198.171.8']
+ALLOWED_HOSTS = ['143.198.171.8', 'starcodes.design', 'www.starcodes.design']
 
 
 # Application definition
